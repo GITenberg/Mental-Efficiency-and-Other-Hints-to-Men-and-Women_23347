@@ -1,0 +1,41 @@
+_repo: Mental-Efficiency-and-Other-Hints-to-Men-and-Women_23347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: In this delightful collection of practical essays, published in 1911,
+  the author observes that "the fault of the epoch is the absence of meditativeness."
+  He instructs us to attend to our mental state as vigorously as we do our physical
+  health in chapters entitled "Mental Calisthenics, Breaking with the Past and "The
+  Secret of Content, (when the mind acknowledges something higher than itself). In
+  "Marriage and Success" marriage is seen as a personal affair rather than a duty
+  owed to the State.
+gutenberg_issued: '2007-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23347'
+  lccn: '11010755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BF'
+- !lcsh 'Mental efficiency'
+tableOfContents: Mental efficiency -- Expressing one's individuality -- Breaking with
+  the past -- Settling down in life -- Marriage -- Books -- Success -- The petty artificialities
+  -- The secret of content.
+title: Mental Efficiency, and Other Hints to Men and Women
+url: http://www.gutenberg.org/ebooks/23347
